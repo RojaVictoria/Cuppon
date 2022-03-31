@@ -1,0 +1,32 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    font-weight: 500;
+}
+
+h5 {
+    font-weight: 300;
+}
+
+p {
+    font-weight: 300;
+    color: #707070;
+}
+
+.navbar-brand img{
+    width: 5.125em;
+    height: 1.5em;
+}
+
+.green {
+    font-weight: 500;
+    font-size: 1.25em;
+    color: #28A745;
+}
+
+footer img {
+    width: 5.125em;
+    height: 1.5em;
+}
